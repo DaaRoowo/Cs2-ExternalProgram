@@ -52,7 +52,7 @@ Designed for competitive players who want to dominate every match. Fully undetec
 
 1. **Download** the latest release
 2. **Extract** the archive
-3. **Run** `CS2_External.exe` as **Administrator**
+3. **Run** `CS2_ExternalProgram.exe` as **Administrator**
 4. **Launch** CS2
 5. **Press** `INSERT` to open the menu
 6. **Configure** your settings and play!
